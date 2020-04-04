@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "sqlite3": "^4.1.1"
+    "sql-template-strings": "^2.2.2",
+    "sqlite": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/sqlite3": "^3.1.6",
+    "sqlite3": "^4.1.1",
+    "typescript": "^3.8.3"
   }
 }
